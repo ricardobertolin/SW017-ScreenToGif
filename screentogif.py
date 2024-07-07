@@ -5,6 +5,7 @@ import time
 import winsound
 import os
 
+# TODO: HELLO
 # ADJUST: delay before recording in seconds
 initial_delay = 3
 
